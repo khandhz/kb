@@ -1,4 +1,4 @@
-script_key = "peQSHvEUnZaNgEEFePjbzdePpNSUkzxE"
+script_key = "FvLtIhuAzOuiIRNWZdEPbwMrwsSxVSCt"
 getgenv().Team = "Pirates"
 
 getgenv().WeaponsSetting = {
